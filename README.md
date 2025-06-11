@@ -27,7 +27,7 @@ A simple, interactive quiz application built using **HTML**, **CSS**, and **Java
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/quiz-app.git
+   git clone https://github.com/abinayagoudjandhyala/quiz-app
 
 
 2. Open `index.html` in your browser.
