@@ -2,6 +2,10 @@
 
 A simple, interactive quiz application built using **HTML**, **CSS**, and **JavaScript**. This app allows users to answer multiple-choice questions, track their score, and restart the quiz.
 
+## 🌐 Live Demo
+
+👉 [**View the Live Quiz App**](https://rococo-meerkat-82a22e.netlify.app/)
+
 ## 🚀 Features
 
 - ✅ Multiple-choice questions
